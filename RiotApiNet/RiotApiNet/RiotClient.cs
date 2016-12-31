@@ -8,5 +8,6 @@ namespace RiotApiNet
 {
     public class RiotClient
     {
+        public string ApiKey { get; set; }
     }
 }
